@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(){
+int idade, matricula;
+float alura;
+char nome[50];
+
+printf("Digite sua idade: \n");
+scanf("%s, &nome");
+
+
+
+
+}
